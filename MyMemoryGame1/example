@@ -1,0 +1,11 @@
+values = [0 1 2 0 1 2]
+values = [2 1 1 2 0 0]
+2 1 1
+2 0 0
+
+cells.length = 2;
+cells[0].length = 3;
+i * values.length + j
+
+2 1 1
+
